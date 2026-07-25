@@ -18,7 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sibisriram_Kannan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sibisriramkannan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beacons.ai/sibisriram)
-[![GitHub](https://img.shields.io/badge/GitHub-sibisriram--k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sibisriram-k)
+[![GitHub](https://img.shields.io/badge/GitHub-sibisriram--k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sibisriramkannan)
 
 </div>
 
