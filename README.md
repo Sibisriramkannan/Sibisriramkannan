@@ -7,10 +7,10 @@
 
 # Hi 👋, I'm Sibisriram Kannan
 
-### Cloud Engineer (SRE) | AWS | Azure | GCP | Linux | Windows | DevOps | Automation
+### Cloud Engineer | AWS | Azure | GCP | Linux | Windows | DevOps | Automation
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Cloud+Engineer+%7C+Site+Reliability+Engineering;AWS+%7C+Azure+%7C+GCP;Linux+%7C+Windows+Server+Administration;DevOps+%7C+Monitoring+%7C+Automation;Building+Reliable+and+Scalable+Cloud+Solutions"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Cloud+Engineer+%7C+Cyber+Security+Engineering;AWS+%7C+Azure+%7C+GCP;Linux+%7C+Windows+Server+Administration;DevOps+%7C+Monitoring+%7C+Automation;Building+Reliable+and+Scalable+Cloud+Solutions"
   alt="Typing animation"
 />
 
