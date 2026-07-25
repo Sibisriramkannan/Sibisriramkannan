@@ -30,7 +30,7 @@ I am a **Cloud Engineer and Site Reliability Engineering professional** with han
 
 I currently work with **AWS and Azure environments**, supporting infrastructure operations, troubleshooting system issues, improving reliability, and automating repetitive operational tasks.
 
-- 🔭 Currently working as a **Cloud Engineer (SRE)**
+- 🔭 Currently working as a **Cloud Engineer**
 - ☁️ Working with **AWS, Azure, and cloud infrastructure**
 - 🐧 Experienced in **Linux administration and troubleshooting**
 - 🪟 Working with **Windows Server and PowerShell**
@@ -192,13 +192,13 @@ Monitoring
 
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=sibisriram-k&show_icons=true&theme=github_dark&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=sibisriramkannan&show_icons=true&theme=github_dark&hide_border=true"
   alt="Sibisriram's GitHub statistics"
 />
 
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibisriram-k&layout=compact&theme=github_dark&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibisriramkannan&layout=compact&theme=github_dark&hide_border=true"
   alt="Most used languages"
 />
 
@@ -211,7 +211,7 @@ Monitoring
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=sibisriram-k&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com?user=sibisriramkannan&theme=github-dark-blue&hide_border=true"
   alt="GitHub contribution streak"
 />
 
@@ -224,7 +224,7 @@ Monitoring
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sibisriram-k&theme=github-compact&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sibisriramkannan&theme=github-compact&hide_border=true"
   alt="GitHub contribution graph"
 />
 
