@@ -128,8 +128,8 @@ I currently work with **AWS and Azure environments**, supporting infrastructure 
 
 | Project | Description | Technologies |
 |---|---|---|
-| [AWS Inventory Enterprise Scan](https://github.com/sibisriram-k/aws-inventory-enterprise-scan) | Scans AWS resources and generates structured infrastructure inventory reports | Python, Boto3, AWS CLI |
-| [Azure Inventory Enterprise Scan](https://github.com/sibisriram-k/azure-inventory-enterprise-scan) | Collects Azure resource details for inventory, audit, and documentation | Python, Azure SDK, Azure CLI |
+| [AWS Inventory Enterprise Scan](https://github.com/sibisriramkannan/aws-inventory-enterprise-scan) | Scans AWS resources and generates structured infrastructure inventory reports | Python, Boto3, AWS CLI |
+| [Azure Inventory Enterprise Scan](https://github.com/sibisriramkannan/azure-inventory-enterprise-scan) | Collects Azure resource details for inventory, audit, and documentation | Python, Azure SDK, Azure CLI |
 | Cloud Engineer Portfolio | Central collection of my cloud, automation, Linux, Windows, and DevOps projects | AWS, Azure, GCP, Linux |
 | Linux Administration Labs | Practical Linux administration, networking, services, security, and troubleshooting labs | Linux, Bash, Nginx |
 | Windows Server Labs | Windows Server administration, PowerShell, Task Scheduler, services, and troubleshooting | Windows Server, PowerShell |
